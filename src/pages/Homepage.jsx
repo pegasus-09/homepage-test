@@ -23,10 +23,10 @@ const Homepage = () => {
           🎓 AI Career Guidance
         </div>
         <div style={{ display: 'flex', gap: '1.2rem' }}>
-          <button style={{ background: 'transparent', color: 'white', border: 'none', cursor: 'pointer' }}>Home</button>
-          <button style={{ background: 'transparent', color: 'white', border: 'none', cursor: 'pointer' }}>Assessment</button>
-          <button style={{ background: 'transparent', color: 'white', border: 'none', cursor: 'pointer' }}>About</button>
-          <button style={{ background: 'transparent', color: 'white', border: 'none', cursor: 'pointer' }}>Login</button>
+          <button style={{ background: 'transparent', color: 'white', border: 'none', cursor: 'pointer', fontWeight: '500' }}>Home</button>
+          <button style={{ background: 'transparent', color: 'white', border: 'none', cursor: 'pointer', fontWeight: '500' }}>Assessment</button>
+          <button style={{ background: 'transparent', color: 'white', border: 'none', cursor: 'pointer', fontWeight: '500' }}>About</button>
+          <button style={{ background: 'transparent', color: 'white', border: 'none', cursor: 'pointer', fontWeight: '500' }}>Login</button>
         </div>
       </nav>
 
@@ -67,7 +67,7 @@ const Homepage = () => {
             padding: '1.5rem',
             borderRadius: '12px'
           }}>
-            <h3 style={{ color: '#5B6C8F', marginBottom: '1rem' }}>📊 Personalised Insights</h3>
+            <h3 style={{ color: '#5B6C8F', marginBottom: '1rem' }}>📊 Personalized Insights</h3>
             <p>Clear explanations and reports designed for students and parents.</p>
           </div>
         </div>
